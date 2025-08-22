@@ -13,7 +13,7 @@ This analysis explores the NYC Airbnb ecosystem through statistical analysis and
 ```
 .
 ├── Airbnb.ipynb          # Main notebook with all analyses
-└── AB_NYC_2019.csv       # Dataset
+└── data\AB_NYC_2019.csv       # Dataset
 ```
 > If you're using Google Colab, the notebook expects the CSV at `/content/AB_NYC_2019.csv`. Update the path cell if needed.
 
